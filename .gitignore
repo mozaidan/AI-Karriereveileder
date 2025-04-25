@@ -1,0 +1,13 @@
+# Visual Studio filer
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Byggeoutput
+bin/
+obj/
+
+# Andre midlertidige filer
+*.log
